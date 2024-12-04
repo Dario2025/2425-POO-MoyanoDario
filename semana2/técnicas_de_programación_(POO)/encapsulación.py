@@ -16,6 +16,6 @@ class CuentaBancaria:
 # Uso
 cuenta = CuentaBancaria(1000)
 cuenta.depositar(5000)
-print(cuenta.obtener_saldo())  # Salida: 1500
+print(cuenta.obtener_saldo())  # Salida: 6000
 cuenta.retirar(1900)
-print(cuenta.obtener_saldo())  # Salida: 1300
+print(cuenta.obtener_saldo())  # Salida: 4100
