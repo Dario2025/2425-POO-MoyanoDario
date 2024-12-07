@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dario2025&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Dario2025/Repositorio_2S.git&quot;,
+    &quot;accountId&quot;: &quot;d502604a-7c79-4506-89e8-ed4c3e0631bf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2plHBiojO2yTC3IJaNZQHUkw4Yw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.abstracción.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulación.executor&quot;: &quot;Run&quot;,
+    &quot;Python.herencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="" />
+      <created>1733333607577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733333607577</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733333708037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733333708037</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733335879567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733335879567</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733336254181</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733336254181</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733336361843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1733336361843</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733336726231</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733336726231</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733337361976</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733337361976</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733337481436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733337481436</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733361846982</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733361846982</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Semana2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana2" />
+  </component>
+</project>
