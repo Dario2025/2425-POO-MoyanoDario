@@ -48,5 +48,5 @@ libro1 = LibroNoFiccion("Hábitos Atómicos", "James Clear", 2020, "mejora perso
 libro2 = LibroFiccion("Alas de Hierro", "Rebecca Yarros", 2024, "romance y drama")
 
 # Uso de los métodos
-mostrar_descripcion(libro1)  # Salida: Hábitos Atómicos es un libro de no ficción sobre mejora personal y hábitos, escrito por James Clear en 2018.
-mostrar_descripcion(libro2)  # Salida: Alas de Hierro es una novela de romance y drama escrita por Rebecca Yarros en 2022.
+mostrar_descripcion(libro1)  # Salida: Hábitos Atómicos es un libro de no ficción sobre mejora personal y hábitos, escrito por James Clear en 2020.
+mostrar_descripcion(libro2)  # Salida: Alas de Hierro es una novela de romance y drama escrita por Rebecca Yarros en 2024.
