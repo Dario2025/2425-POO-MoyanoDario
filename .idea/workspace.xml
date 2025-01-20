@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana2" />
+    <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana 6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,16 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.abstracción.executor&quot;: &quot;Run&quot;,
-    &quot;Python.encapsulación.executor&quot;: &quot;Run&quot;,
-    &quot;Python.herencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Clases, objetos, heren, encap y polimorfismo.executor": "Run",
+    "Python.Ejemplo Tecnicas de Programacion.executor": "Run",
+    "Python.Pedidos en una Tienda.executor": "Run",
+    "Python.Programación Orientada a Objetos (POO).executor": "Run",
+    "Python.Programación Tradicional.executor": "Run",
+    "Python.Sistema de Reservas de un Hotel.executor": "Run",
+    "Python.Tarea_Tipos de datos_Identificadores_Implementación.executor": "Run",
+    "Python.abstracción.executor": "Run",
+    "Python.encapsulación.executor": "Run",
+    "Python.herencia.executor": "Run",
+    "Python.polimorfismo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -131,11 +141,70 @@
       <option name="project" value="LOCAL" />
       <updated>1733361846982</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733575586155</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733575586155</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Semana2">
+      <option name="closed" value="true" />
+      <created>1733575756676</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733575756676</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Texto Comparativo&#10;La programación tradicional utiliza estructuras de funciones para realizar el cálculo del promedio semanal del clima. La función ingresar_datos_diarios ingresa las temperaturas diarias, la función calcular_promedio_semanal calcula el promedio semanal y la función main coordina el proceso.&#10;&#10;La programación orientada a objetos (POO) utiliza una clase Clima para representar la información diaria del clima. La clase tiene métodos para ingresar datos diarios (ingresar_datos_diarios), calcular el promedio semanal (calcular_promedio_semanal) y mostrar el resultado (mostrar_resultado). La función main crea un objeto de la clase Clima y coordina el proceso.&#10;&#10;La POO ofrece ventajas como la encapsulación de datos y métodos, la herencia y el polimorfismo, lo que permite una mayor flexibilidad y reutilización de código. Sin embargo, la programación tradicional puede ser más sencilla y fácil de entender para problemas simples.">
+      <option name="closed" value="true" />
+      <created>1733960567371</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1733960567371</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Semana 3">
+      <option name="closed" value="true" />
+      <created>1736196855833</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736196855833</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Semana 3">
+      <option name="closed" value="true" />
+      <created>1736533854513</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1736533854513</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Semana 6">
+      <option name="closed" value="true" />
+      <created>1736888436209</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736888436209</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Semana 6">
+      <option name="closed" value="true" />
+      <created>1736888529611</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736888529611</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Semana2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana2" />
+    <MESSAGE value="Texto Comparativo&#10;La programación tradicional utiliza estructuras de funciones para realizar el cálculo del promedio semanal del clima. La función ingresar_datos_diarios ingresa las temperaturas diarias, la función calcular_promedio_semanal calcula el promedio semanal y la función main coordina el proceso.&#10;&#10;La programación orientada a objetos (POO) utiliza una clase Clima para representar la información diaria del clima. La clase tiene métodos para ingresar datos diarios (ingresar_datos_diarios), calcular el promedio semanal (calcular_promedio_semanal) y mostrar el resultado (mostrar_resultado). La función main crea un objeto de la clase Clima y coordina el proceso.&#10;&#10;La POO ofrece ventajas como la encapsulación de datos y métodos, la herencia y el polimorfismo, lo que permite una mayor flexibilidad y reutilización de código. Sin embargo, la programación tradicional puede ser más sencilla y fácil de entender para problemas simples." />
+    <MESSAGE value="Semana 3" />
+    <MESSAGE value="Semana 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 6" />
   </component>
 </project>
