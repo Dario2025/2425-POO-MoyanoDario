@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana 6">
+      <change afterPath="$PROJECT_DIR$/Semana 9/Sistema de Gestión de Inventarios.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +48,11 @@
   "keyToString": {
     "Python.Clases, objetos, heren, encap y polimorfismo.executor": "Run",
     "Python.Ejemplo Tecnicas de Programacion.executor": "Run",
+    "Python.Implementación de Constructores y Destructores en Python.executor": "Run",
     "Python.Pedidos en una Tienda.executor": "Run",
     "Python.Programación Orientada a Objetos (POO).executor": "Run",
     "Python.Programación Tradicional.executor": "Run",
+    "Python.Sistema de Gestión de Inventarios.executor": "Run",
     "Python.Sistema de Reservas de un Hotel.executor": "Run",
     "Python.Tarea_Tipos de datos_Identificadores_Implementación.executor": "Run",
     "Python.abstracción.executor": "Run",
@@ -197,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736888529611</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Semana 6">
+      <option name="closed" value="true" />
+      <created>1737412638612</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737412638612</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
