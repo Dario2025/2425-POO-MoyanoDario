@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana 6" />
+    <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana 11">
+      <change afterPath="$PROJECT_DIR$/Semana 12/Sistema de Gestión de Biblioteca Digital.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +52,8 @@
     "Python.Pedidos en una Tienda.executor": "Run",
     "Python.Programación Orientada a Objetos (POO).executor": "Run",
     "Python.Programación Tradicional.executor": "Run",
+    "Python.Sistema Avanzado de Gestión de Inventario.executor": "Run",
+    "Python.Sistema de Gestión de Biblioteca Digital.executor": "Run",
     "Python.Sistema de Gestión de Inventarios Mejorado.executor": "Run",
     "Python.Sistema de Gestión de Inventarios.executor": "Run",
     "Python.Sistema de Reservas de un Hotel.executor": "Run",
@@ -222,7 +227,31 @@
       <option name="project" value="LOCAL" />
       <updated>1740358651885</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Semana 6">
+      <option name="closed" value="true" />
+      <created>1740359029110</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740359029110</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Semana 10">
+      <option name="closed" value="true" />
+      <created>1740359086211</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740359086211</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Semana 11">
+      <option name="closed" value="true" />
+      <created>1740888214484</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1740888214484</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,6 +259,8 @@
     <MESSAGE value="Texto Comparativo&#10;La programación tradicional utiliza estructuras de funciones para realizar el cálculo del promedio semanal del clima. La función ingresar_datos_diarios ingresa las temperaturas diarias, la función calcular_promedio_semanal calcula el promedio semanal y la función main coordina el proceso.&#10;&#10;La programación orientada a objetos (POO) utiliza una clase Clima para representar la información diaria del clima. La clase tiene métodos para ingresar datos diarios (ingresar_datos_diarios), calcular el promedio semanal (calcular_promedio_semanal) y mostrar el resultado (mostrar_resultado). La función main crea un objeto de la clase Clima y coordina el proceso.&#10;&#10;La POO ofrece ventajas como la encapsulación de datos y métodos, la herencia y el polimorfismo, lo que permite una mayor flexibilidad y reutilización de código. Sin embargo, la programación tradicional puede ser más sencilla y fácil de entender para problemas simples." />
     <MESSAGE value="Semana 3" />
     <MESSAGE value="Semana 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 6" />
+    <MESSAGE value="Semana 10" />
+    <MESSAGE value="Semana 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 11" />
   </component>
 </project>
