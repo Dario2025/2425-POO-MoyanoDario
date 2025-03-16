@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana 11">
-      <change afterPath="$PROJECT_DIR$/Semana 12/Sistema de Gestión de Biblioteca Digital.py" afterDir="false" />
+    <list default="true" id="dae7f13a-02ee-471c-8185-7d87107edc85" name="Changes" comment="Semana 12">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,29 +43,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Clases, objetos, heren, encap y polimorfismo.executor": "Run",
-    "Python.Ejemplo Tecnicas de Programacion.executor": "Run",
-    "Python.Implementación de Constructores y Destructores en Python.executor": "Run",
-    "Python.Pedidos en una Tienda.executor": "Run",
-    "Python.Programación Orientada a Objetos (POO).executor": "Run",
-    "Python.Programación Tradicional.executor": "Run",
-    "Python.Sistema Avanzado de Gestión de Inventario.executor": "Run",
-    "Python.Sistema de Gestión de Biblioteca Digital.executor": "Run",
-    "Python.Sistema de Gestión de Inventarios Mejorado.executor": "Run",
-    "Python.Sistema de Gestión de Inventarios.executor": "Run",
-    "Python.Sistema de Reservas de un Hotel.executor": "Run",
-    "Python.Tarea_Tipos de datos_Identificadores_Implementación.executor": "Run",
-    "Python.abstracción.executor": "Run",
-    "Python.encapsulación.executor": "Run",
-    "Python.herencia.executor": "Run",
-    "Python.polimorfismo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Clases, objetos, heren, encap y polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo Tecnicas de Programacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Implementación de Constructores y Destructores en Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pedidos en una Tienda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programación Orientada a Objetos (POO).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programación Tradicional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema Avanzado de Gestión de Inventario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema de Gestión de Biblioteca Digital.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema de Gestión de Inventarios Mejorado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema de Gestión de Inventarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sistema de Reservas de un Hotel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tarea_Tipos de datos_Identificadores_Implementación.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstracción.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulación.executor&quot;: &quot;Run&quot;,
+    &quot;Python.herencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polimorfismo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -251,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740888214484</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Semana 12">
+      <option name="closed" value="true" />
+      <created>1741399277354</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1741399277354</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,6 +268,7 @@
     <MESSAGE value="Semana 6" />
     <MESSAGE value="Semana 10" />
     <MESSAGE value="Semana 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Semana 11" />
+    <MESSAGE value="Semana 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="Semana 12" />
   </component>
 </project>
